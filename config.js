@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
+    introTitle: 'Xin chào nàng táo nhỏ của Liễn Đằng!',
+    introDesc: `Anh không thích hứa hẹn kiếp này kiếp sau, 
+    anh chỉ biết việc yêu nàng đối với anh là đời đời kiếp kiếp. 
+    Giữa thế gian rộng lớn luôn có một người có thể trở thành ngoại lệ của ai đó
+    và nàng chính là ngoại lệ cũng là giới hạn cuối cùng của anh.`,
+    btnIntro: 'Anh còn có điều muốn nói',
+    title: 'Anh đã phải lòng nàng, một mực yêu nàng đã lâu',
+    desc: 'Vậy nàng đối với anh có như anh đối với nàng không? ',
+    btnYes: 'Mỗi ngày đều thích anh',
+    btnNo: 'Không thèm thích đồ lươn như anh đâu, lew lew',
+    question:'Liễn Đằng không mua nổi hoa mạ vàng, anh chỉ có trái tim và tình yêu mãnh liệt dành cho riêng nàng. Nàng chấp nhận anh không?',
+    btnReply: 'Anh chờ nàng hồi đáp',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    mess: 'Không phải ngại ngùng, anh rất vui vì nàng đồng ý!',
+    messDesc: 'Không cần lời hoa mỹ, không cần quốc sắc thiên hương cũng không cần mỹ nữ dịu dàng an tĩnh bởi anh chỉ cần nàng, nàng táo nhỏ của anh',
+    btnAccept: 'Anh yêu Thiểm Nê',
+    messLink: 'http://fb.com' //https://m.me/daylaliendang
 }
